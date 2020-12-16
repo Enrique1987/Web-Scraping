@@ -13,3 +13,9 @@ In this repository include all my personal notes taken during three differents c
 ### 1_Beautiful_Soup_Bs4
 
 - 1_First_Straction_Sock [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/1_First_Straction_Sock.ipynb ) ]
+- 2_Using Urllib [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/2_Using Urllib.ipynb ) ]
+- 3_Beautiful_Soup_1 [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/3_Beautiful_Soup_1.ipynb ) ]
+- 4_Beatiful_Soup_2 [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/4_Beatiful_Soup_2.ipynb ) ]
+- 5_BeautifulSoup_Text_Extraction [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/5_BeautifulSoup_Text_Extraction.ipynb ) ]
+- 6_BS4_and_Pandas [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/6_BS4_and_Pandas.ipynb ) ]
+
