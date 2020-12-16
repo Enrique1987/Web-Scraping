@@ -12,4 +12,4 @@ In this repository include all my personal notes taken during three differents c
 
 ### 1_Beautiful_Soup_Bs4
 
-- 1_First_Straction_Sock [[Jupyter Notebook ]( Web_Scrapy_Basic\1_Beautiful_Soup_Bs4\1_First_Straction_Sock.ipynb ) ]
+- 1_First_Straction_Sock [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/1_First_Straction_Sock.ipynb ) ]
