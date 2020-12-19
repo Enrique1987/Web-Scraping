@@ -19,3 +19,15 @@ In this repository include all my personal notes taken during three differents c
 - 5_BeautifulSoup_Text_Extraction [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/5_BeautifulSoup_Text_Extraction.ipynb ) ]
 - 6_BS4_and_Pandas [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/6_BS4_and_Pandas.ipynb ) ]
 
+
+
+### 2_Reading_Json_and_Xml
+
+- Reading_JSON [[Jupyter Notebook ]( Web_Scrapy_Basic/2_Reading_Json_and_Xml/Reading_JSON.ipynb ) ]
+- Reading_ml [[Jupyter Notebook ]( Web_Scrapy_Basic/2_Reading_Json_and_Xml/Reading_ml.ipynb ) ]
+
+
+### 3_Selenium
+
+- 1_First_Straction_Sock [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/1_First_Straction_Sock.ipynb ) ]
+- 2_Using_Urllib [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/2_Using_Urllib.ipynb ) ]
