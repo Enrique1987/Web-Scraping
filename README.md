@@ -29,5 +29,13 @@ In this repository include all my personal notes taken during three differents c
 
 ### 3_Selenium
 
-- 1_First_Straction_Sock [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/1_First_Straction_Sock.ipynb ) ]
-- 2_Using_Urllib [[Jupyter Notebook ]( Web_Scrapy_Basic/1_Beautiful_Soup_Bs4/2_Using_Urllib.ipynb ) ]
+- 7_0_First_Steps [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/7_0_First_Steps.ipynb ) ]
+- 7_clicks_in_template [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/7_clicks_in_template.ipynb ) ]
+- 8_Autho_loggin [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/8_Autho_loggin.ipynb ) ]
+- 9_CSS_Selector [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/9_CSS_Selector.ipynb ) ]
+- 10_Choose_Options [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/10_Choose_Options.ipynb ) ]
+- 11_Navigate_throw_tabs [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/11_Navigate_throw_tabs.ipynb ) ]
+- 12_Open_several_tabs [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/12_Open_several_tabs.ipynb ) ]
+- 13_Read_Cookies [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/13_Read_Cookies.ipynb ) ]
+- 14_Read_Table [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/14_Read_Table.ipynb ) ]
+- 15_Screenshot [[Jupyter Notebook ]( Web_Scrapy_Basic/3_Selenium/15_Screenshot.ipynb ) ]
